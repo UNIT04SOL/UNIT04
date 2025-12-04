@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-flisim-blue?logo=google-chrome)](https://flisim.tech/)
 [![Twitter](https://img.shields.io/badge/Twitter-flisim-blue?logo=twitter)](https://x.com/flisimswarm)
 
+CA: E3mRLgC2CDAFFRAdARfN6nRsydJeNRPFChuuU1Fepump
+
 # flisim — Autonomous Light-Pulse Cognition
 
 flisim is an on-chain computational agent modeled on the cognition of firefly swarms.  
