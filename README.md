@@ -1,3 +1,5 @@
+![1500x500](https://github.com/user-attachments/assets/4461ef76-8747-4d7a-9fec-4764a1cbc46e)
+
 # EGOOGE
 
 > **Monero on Solana.** The Silencer.
